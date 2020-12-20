@@ -1,0 +1,25 @@
+************************************************************
+******** Daily Deaths per Region and Province **************
+************************************************************
+Source-> https://www.istat.it/it/archivio/240401(
+Filename-> Descrizione e tracciato record dati comunali giornalieri.pdf, comuni_giornaliero_30settembre.csv) 
+
+************************************************************
+******* Resident People in Italy on 1st of Jan *************
+************************************************************
+Source-> http://dati.istat.it/#
+Filename-> DCIS_POPRES1_10122020190815308.csv
+
+
+************************************************************
+************* Birth in Italy on previous years *************
+************************************************************
+Source-> http://dati.istat.it/#
+Filename-> DCIS_NATI1_10122020192447360.csv
+
+
+************************************************************
+************ COVID-19 contagious data in Italy *************
+************************************************************
+Source-> https://github.compcm-dpcCOVID-19treemasterdati-regioni
+Filename-> dpc-covid19-ita-regioni.csv
